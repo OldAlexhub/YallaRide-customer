@@ -1,0 +1,34 @@
+{
+  "bans": {
+    "bannedTitle": "الحساب محظور",
+    "bannedMessageDefault": "تم حظر حسابك. يرجى التواصل مع الدعم.",
+    "bannedTemporarily": "حسابك محظور مؤقتًا حتى",
+    "warningTitle": "تحذير على الحساب",
+    "warningMessageDefault": "يوجد تحذير على حسابك."
+  },
+  "errors": {
+    "noDriversTitle": "لا يوجد سائقون متاحون",
+    "noDriversMessage": "لم نتمكن من العثور على سائقين قريبين الآن.",
+    "geofenceTitle": "خارج منطقة الخدمة",
+    "geofenceMessage": "الخدمة غير متاحة من موقعك الحالي.",
+    "serviceUnavailableTitle": "الخدمة غير متوفرة",
+    "serviceUnavailableMessage": "يرجى المحاولة مرة أخرى لاحقًا."
+  },
+  "common": {
+    "home": "الرئيسية",
+    "retry": "إعادة المحاولة",
+    "back": "رجوع",
+    "continue": "استمرار",
+    "support": "التواصل مع الدعم"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "logout": "تسجيل الخروج"
+  },
+  "language": {
+    "english": "الإنجليزية",
+    "arabic": "العربية"
+  }
+}
+

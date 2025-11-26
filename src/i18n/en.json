@@ -1,0 +1,34 @@
+{
+  "bans": {
+    "bannedTitle": "Account banned",
+    "bannedMessageDefault": "Your account has been banned. Please contact support.",
+    "bannedTemporarily": "Your account is temporarily blocked until",
+    "warningTitle": "Account warning",
+    "warningMessageDefault": "There is a warning on your account."
+  },
+  "errors": {
+    "noDriversTitle": "No drivers available",
+    "noDriversMessage": "We couldn't find any nearby drivers right now.",
+    "geofenceTitle": "Outside service area",
+    "geofenceMessage": "Rides are not available from your current location.",
+    "serviceUnavailableTitle": "Service unavailable",
+    "serviceUnavailableMessage": "Please try again later."
+  },
+  "common": {
+    "home": "Home",
+    "retry": "Retry",
+    "back": "Back",
+    "continue": "Continue",
+    "support": "Contact support"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "logout": "Logout"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "Arabic"
+  }
+}
+
